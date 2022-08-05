@@ -1,8 +1,8 @@
 # Alugue
 
-## BR: Projeto de Aluguel de casa e afins desenvolvido em React Native para Android e iOS.
-## US: House rental and related project developed in React Native for Android and iOS.
-## ES: Proyecto de alquiler de viviendas y afines desarrollado en React Native para Android e iOS.
+### BR: Projeto de Aluguel de casa e afins desenvolvido em React Native para Android e iOS.
+### US: House rental and related project developed in React Native for Android and iOS.
+### ES: Proyecto de alquiler de viviendas y afines desarrollado en React Native para Android e iOS.
 
 ### Como usar
 
